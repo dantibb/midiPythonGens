@@ -1,0 +1,14 @@
+
+scalebase
+scale --full scale
+create chords from scale
+    To do - switch to note no
+
+phrases
+    to do - create source note sequence
+    
+tune
+loop through bars and add phrases (as note no)
+
+create Midi
+Add middlenote
